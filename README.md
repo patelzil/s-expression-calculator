@@ -6,8 +6,9 @@ A command line program that acts as a simple calculator: it takes a single argum
 ## How to run
 
 1. Ensure you have node.js installed. If not, you can install node.js by following [this link.](https://nodejs.org/en/)
-2. Go the folder containing the `main.js` file.
-3. Write the command: `node ./main.js {expression}`.
+2. Download the `main.js` file.
+3. Go the folder containing the `main.js` file.
+4. Open the terminal/command line and write the command: `node ./main.js {expression}`.
 
 Assuming everything went well, this is how sample output should look like: 
 ```
